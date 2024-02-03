@@ -1,0 +1,4 @@
+#!/bin/bash
+p2pool --host 127.0.0.1 --wallet 47Mm6cMFH2hMqYesUkzZ9EEBZLGhQWpC6QDsTsYzRZhC6KpNYLapBn6hPgnVUrT1iQ2Pw2EHRtUMMaeZvZUASmpZRQ2nGBg --mini
+
+# 4AkZzVYimHET7mWhFAwdyUReLSWMLv64HCPBDXzWhdEyCVNfwXmsgF1PioAtun4YybWwbDuGGMZFm2drdhszagrjQhuQTkN --mini
